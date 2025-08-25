@@ -5,5 +5,11 @@ const Student  = {
 }
 
 
-Student.FullName = "Mikasa Ackerman "
+Student.FullName = "Mikasa Ackerman"
+
+Student.age = Student.age+1
 console.log(Student);
+
+let name = "levi Ackermnan from Attack on titan";
+let NewName  = "cz star "
+console.log(name+"  "+ NewName);
