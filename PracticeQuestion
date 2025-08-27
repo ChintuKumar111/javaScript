@@ -1,0 +1,9 @@
+// create a const object "Product " to store information shown in the picture
+
+const Product ={
+    title : " Parker Jotter Standard Ct Ball Pen",
+    color : "Black ",
+    price: 270
+}
+
+console.log(Product.color);
