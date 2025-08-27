@@ -1,0 +1,2 @@
+let namee = "Levi Ackerma";
+console.log(` Hello there my Self ${namee}`)
