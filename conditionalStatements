@@ -5,5 +5,5 @@ if(age>16){
     console.log("age is greater than 10 menas you are a eligible to driive scooter  ")
    
 } else{
-        console.log(" you under 16 year thats means you cant drive the vehicle ");
+        console.log(" you under 16 year thats means you can't drive the vehicle ");
     }
