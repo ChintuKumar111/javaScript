@@ -1,0 +1,5 @@
+console.log("Prinitng the value in js 1 to 10")
+
+for(let i = 1; i<=10;i++){
+    console.log(i);
+}
