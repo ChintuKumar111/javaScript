@@ -1,7 +1,8 @@
 const Student  = {
     FullName : "levi ackerman ",
     age : 23,
-    class : "8th"
+    class : "8th",
+    addres:  " bilaspur "
 }
 
 

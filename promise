@@ -1,0 +1,9 @@
+let myPromise = new Promise ((resolve,reject)=>{
+    let succes = true;
+
+    if(resolve)("done")
+    else "mkb"
+    
+});
+
+// PROMISE MOST OF THE TIME USES FOR LIKE FETCHING THE API

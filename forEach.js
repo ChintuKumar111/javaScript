@@ -1,5 +1,4 @@
-let arr = ["1","2","3"];
+let arr = ["11","21","31","99"];
 
-arr.forEach(
-    num => console.log(num)
+arr.forEach(num,index=> console.log(`Num ${num}, Index: ${index}`)
 );
